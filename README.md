@@ -41,25 +41,16 @@ ________________________________________
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/sepsis-prediction.git
+git clone https://github.com/Budus0n/FastAPI-Project
 cd sepsis-prediction
 2. Install Dependencies
-Ensure you have Python 3.8+ and install the required libraries:
-bash
-Copy code
 pip install -r requirements.txt
 3. Run the Scripts
 1.	Data Preprocessing:
-bash
-Copy code
 python data_preprocessing.py
 2.	Model Training and Evaluation:
-bash
-Copy code
 python train_model.py
 3.	Hyperparameter Tuning (Optional):
-bash
-Copy code
 python hyperparameter_tuning.py
 ________________________________________
 🔍 Methodology
