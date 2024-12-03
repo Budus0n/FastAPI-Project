@@ -1,0 +1,15 @@
+# Ignore Python cache files
+__pycache__/
+*.__pycache__
+
+# ignore the environement files
+.venv
+*.env
+
+
+# ignore unneccessary file
+model.py
+
+
+# ignore the label encoder
+models/label_encoder.pkl
